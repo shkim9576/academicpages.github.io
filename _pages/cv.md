@@ -1,1 +1,1 @@
-<embed src="../files/shk-resume.pdf" width="500" height="375" type='application/pdf'>
+https://github.com/shkim9576/shkim9576.github.io/blob/master/files/shk-resume.pdf

@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I have been a hands-on engineer who is developing SOA-based cloud platform for IoT at Johnson Controls.
-Also, have good experience on designing and developing digital video streaming at Cisco.
+I am a hands-on engineer who has been developing SOA-based cloud platform for IoT at Johnson Controls.
+Also, have good experience on designing and developing applications for digital video streaming at Cisco for DirecTV and Cox.
 I am interested in Coding, Algorithm, Cloud, Big data, and Machine Learning.

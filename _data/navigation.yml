@@ -1,8 +1,8 @@
 # main links links
 main:
         
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Data Structure"
+    url: /data-structure/
     
   - title: "CV"
-    url: /CV/
+    url: /cv/
